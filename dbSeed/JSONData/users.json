@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Shop1",
+		"email": "shop1@gmail.com",
+		"role": "SHOP",
+		"username": "shop1",
+		"password": "abc1234",
+		"language": "en",
+		"currency": "USD"	
+	},
+	{
+		"name": "Shop2",
+		"email": "shop2@gmail.com",
+		"role": "SHOP",
+		"username": "shop2",
+		"password": "abc1234",
+		"language": "en",
+		"currency": "USD"	
+	},
+	{
+		"name": "User1",
+		"email": "user1@gmail.com",
+		"role": "USER",
+		"username": "user1",
+		"password": "abc1234",
+		"language": "en",
+		"currency": "USD"	
+	},
+	{
+		"name": "User2",
+		"email": "user2@gmail.com",
+		"role": "USER",
+		"username": "user2",
+		"password": "abc1234",
+		"language": "nl",
+		"currency": "EUR"	
+	}
+]
